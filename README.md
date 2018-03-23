@@ -1,0 +1,2 @@
+# randstr
+get random string

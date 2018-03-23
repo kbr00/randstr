@@ -1,2 +1,2 @@
 # randstr
-get random string
+gets random inexpensive string shit through http
